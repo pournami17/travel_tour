@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Import - Layout One were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:600
+Data file = /var/www/html/travel_tour/wp-content/themes/travel-tour/inc/demo/contents.xml
+Widget file = /var/www/html/travel_tour/wp-content/themes/travel-tour/inc/demo/widget.wie
+Customizer file = /var/www/html/travel_tour/wp-content/themes/travel-tour/inc/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+WP Travel Engine Sidebar : 
+
+Image - No Title - Imported
+
+Right Sidebar : 
+
+Blossom: Recent Post - Recent Posts - Imported
+Blossom: Posts Category Slider - Trekking - Imported
+Blossom: Custom Categories - Adventure - Imported
+Blossom: Popular Post - Popular Post - Imported
+
+Testimonials : 
+
+Blossom: Testimonial - No Title - Imported
+Blossom: Testimonial - No Title - Imported
+Blossom: Testimonial - No Title - Imported
+
+Footer Widget : 
+
+Text - Contact Info - Widget already exists
+Navigation Menu - Trip Types - Widget already exists
+Navigation Menu - Destinations - Widget already exists
+Navigation Menu - Activities - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

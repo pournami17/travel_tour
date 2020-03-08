@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .black-white{
+    -webkit-filter:grayscale(100%);
+    -moz-filter:grayscale(100%);
+    filter:grayscale(100%);
+    -webkit-transition:ease .2s;
+    -moz-transition:ease .2s;
+    transition:ease .2s;
+}
+.black-white:hover{
+    -webkit-filter:grayscale(0);
+    -moz-filter:grayscale(0);
+    filter:grayscale(0);
+}

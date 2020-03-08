@@ -1,0 +1,80 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.wpte-trip-feat-img-gallery{
+	position: relative;
+}
+
+.wpte-trip-feat-img-gallery .owl-prev{
+	position: absolute;
+	top: 50%;
+	left: 40px;
+	width: 60px;
+	height: 60px;
+	background: rgba(0, 0, 0, 0.5);
+	border-radius: 50%;
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	transform: translateY(-50%);
+	z-index: 1;
+	font-size: 0;
+}
+
+.wpte-trip-feat-img-gallery .owl-prev:before{
+	content: '';
+	opacity: 1;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	width: 15px;
+	height: 20px;
+	background: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 192 512'%3E%3Cpath d='M192 127.338v257.324c0 17.818-21.543 26.741-34.142 14.142L29.196 270.142c-7.81-7.81-7.81-20.474 0-28.284l128.662-128.662c12.599-12.6 34.142-3.676 34.142 14.142z'/%3E%3C/svg%3E") center center no-repeat;
+}
+
+.wpte-trip-feat-img-gallery .owl-next{
+	position: absolute;
+	top: 50%;
+	right: 40px;
+	width: 60px;
+	height: 60px;
+	background: rgba(0, 0, 0, 0.5);
+	border-radius: 50%;
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	transform: translateY(-50%);
+	z-index: 1;
+	font-size: 0;
+}
+
+.wpte-trip-feat-img-gallery .owl-next:after{
+	content: '';
+	opacity: 1;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	width: 15px;
+	height: 20px;
+	background: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 192 512'%3E%3Cpath d='M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z'/%3E%3C/svg%3E") center center no-repeat;
+}
+
+@media only screen and (max-width: 767px){
+	.wpte-trip-feat-img-gallery .owl-prev{
+		width: 40px;
+		height: 40px;
+		left: 10px;
+	}
+
+	.wpte-trip-feat-img-gallery .owl-next{
+		width: 40px;
+		height: 40px;
+		right: 10px;
+	}
+}

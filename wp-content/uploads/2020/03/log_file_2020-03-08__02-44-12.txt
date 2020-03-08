@@ -1,0 +1,583 @@
+
+---Downloaded files---
+The import files for: Import - Layout One were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:600
+Data file = /var/www/html/travel_tour/wp-content/themes/travel-tour/inc/demo/contents.xml
+Widget file = /var/www/html/travel_tour/wp-content/themes/travel-tour/inc/demo/widget.wie
+Customizer file = /var/www/html/travel_tour/wp-content/themes/travel-tour/inc/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+[WARNING] Failed to import "booking 443": Invalid post type booking
+[WARNING] Failed to import "booking 471": Invalid post type booking
+[WARNING] Failed to import "booking 507": Invalid post type booking
+[WARNING] Failed to import "booking 520": Invalid post type booking
+[WARNING] Failed to import "booking 524": Invalid post type booking
+[WARNING] Failed to import "booking 526": Invalid post type booking
+[WARNING] Failed to import "booking 528": Invalid post type booking
+[WARNING] Failed to import "booking 531": Invalid post type booking
+[WARNING] Failed to import "booking 534": Invalid post type booking
+[WARNING] Failed to import "booking 536": Invalid post type booking
+[WARNING] Failed to import "booking 538": Invalid post type booking
+[WARNING] Failed to import "booking 540": Invalid post type booking
+[WARNING] Failed to import "booking 542": Invalid post type booking
+[WARNING] Failed to import "booking 545": Invalid post type booking
+[WARNING] Failed to import "booking 547": Invalid post type booking
+[WARNING] Failed to import "booking 549": Invalid post type booking
+[WARNING] Failed to import "booking 552": Invalid post type booking
+[WARNING] Failed to import "booking 555": Invalid post type booking
+[WARNING] Failed to import "booking 557": Invalid post type booking
+[WARNING] Failed to import "booking 559": Invalid post type booking
+[WARNING] Failed to import "booking 561": Invalid post type booking
+[WARNING] Failed to import "booking 563": Invalid post type booking
+[WARNING] Failed to import "booking 565": Invalid post type booking
+[WARNING] Failed to import "booking 567": Invalid post type booking
+[WARNING] Failed to import "booking 569": Invalid post type booking
+[WARNING] Failed to import "booking 570": Invalid post type booking
+[WARNING] Failed to import "booking 572": Invalid post type booking
+[WARNING] Failed to import "amit.bajracharya87@gmail.com": Invalid post type customer
+[WARNING] Failed to import "sudipsudip@gmail.com": Invalid post type customer
+[WARNING] Failed to import "uiuii@gmail.com": Invalid post type customer
+[WARNING] Failed to import "sdf@gmail.co": Invalid post type customer
+[WARNING] Failed to import "booking 574": Invalid post type booking
+[WARNING] Failed to import "booking 576": Invalid post type booking
+[WARNING] Failed to import "booking 578": Invalid post type booking
+[WARNING] Failed to import "booking 580": Invalid post type booking
+[WARNING] Failed to import "booking 582": Invalid post type booking
+[WARNING] Failed to import "booking 584": Invalid post type booking
+[WARNING] Failed to import "booking 586": Invalid post type booking
+[WARNING] Failed to import "booking 589": Invalid post type booking
+[WARNING] Failed to import "booking 591": Invalid post type booking
+[WARNING] Failed to import "booking 593": Invalid post type booking
+[WARNING] Failed to import "booking 595": Invalid post type booking
+[WARNING] Failed to import "booking 597": Invalid post type booking
+[WARNING] Failed to import "booking 599": Invalid post type booking
+[WARNING] Failed to import "booking 600": Invalid post type booking
+[WARNING] Failed to import "booking 602": Invalid post type booking
+[WARNING] Failed to import "booking 604": Invalid post type booking
+[WARNING] Failed to import "dsfg@fadfadsf.fadsf": Invalid post type customer
+[WARNING] Failed to import "ghnhn@gmail.com": Invalid post type customer
+[WARNING] Failed to import "test@gmail.com": Invalid post type customer
+[WARNING] Failed to import "dasd@acm.bom": Invalid post type customer
+[WARNING] Failed to import "horisa@yahoo.com": Invalid post type customer
+[WARNING] Failed to import "vc@gmail.com": Invalid post type customer
+[WARNING] Failed to import "11@mail.ru": Invalid post type customer
+[WARNING] Failed to import "andres.casanova1012@gmail.com": Invalid post type customer
+[WARNING] Failed to import "heryirawan3790@gmail.com": Invalid post type customer
+[WARNING] Failed to import "asdfas@dkdkd.com": Invalid post type customer
+[WARNING] Failed to import "ksaudh@gmail.com": Invalid post type customer
+[WARNING] Failed to import "pratimakamat26@gmail.com": Invalid post type customer
+[WARNING] Failed to import "dfg@mail.com": Invalid post type customer
+[WARNING] Failed to import "n@d.com": Invalid post type customer
+[WARNING] Failed to import "htca0777@gmail.com": Invalid post type customer
+[WARNING] Failed to import "e@er.mn": Invalid post type customer
+[WARNING] Failed to import "fd@gmail.com": Invalid post type customer
+[WARNING] Failed to import "f@gmail.com": Invalid post type customer
+[WARNING] Failed to import "fbouzehra@gmail.com": Invalid post type customer
+[WARNING] Failed to import "milipora@mail22.club": Invalid post type customer
+[WARNING] Failed to import "Enquiry #399": Invalid post type enquiry
+[WARNING] Failed to import "Enquiry #544": Invalid post type enquiry
+[WARNING] Failed to import "Enquiry #554": Invalid post type enquiry
+[WARNING] Failed to import "nickintrend@gmail.com": Invalid post type customer
+[WARNING] Failed to import "sd@g.com": Invalid post type customer
+[WARNING] Failed to import "mywishholidays@gmail.com": Invalid post type customer
+[WARNING] Failed to import "albanantonio@gmai.com": Invalid post type customer
+[WARNING] Failed to import "bushrairshad@gmail.com": Invalid post type customer
+[WARNING] Failed to import "set@hot.com": Invalid post type customer
+[WARNING] Failed to import "buyvcc77@gmail.com": Invalid post type customer
+[WARNING] Failed to import "ddd@gmail.com": Invalid post type customer
+[WARNING] Failed to import "abc@abc.com": Invalid post type customer
+[WARNING] Failed to import "demo@demo.com": Invalid post type customer
+[WARNING] Failed to import "m_yahya@aucegypt.edu": Invalid post type customer
+[WARNING] Failed to import "bogortourtravel35@gmail.com": Invalid post type customer
+[WARNING] Failed to import "dfd@gdg.com": Invalid post type customer
+[WARNING] Failed to import "rennytox@gmail.com": Invalid post type customer
+[WARNING] Failed to import "asad@gmail.com": Invalid post type customer
+[WARNING] Failed to import "dasdasdasd@gmail.com": Invalid post type customer
+[WARNING] Failed to import "mdondog123@gmail.com": Invalid post type customer
+[WARNING] Failed to import "Enquiry #588": Invalid post type enquiry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+[WARNING] Failed to import "booking 443": Invalid post type booking
+[WARNING] Failed to import "booking 471": Invalid post type booking
+[WARNING] Failed to import "booking 507": Invalid post type booking
+[WARNING] Failed to import "booking 520": Invalid post type booking
+[WARNING] Failed to import "booking 524": Invalid post type booking
+[WARNING] Failed to import "booking 526": Invalid post type booking
+[WARNING] Failed to import "booking 528": Invalid post type booking
+[WARNING] Failed to import "booking 531": Invalid post type booking
+[WARNING] Failed to import "booking 534": Invalid post type booking
+[WARNING] Failed to import "booking 536": Invalid post type booking
+[WARNING] Failed to import "booking 538": Invalid post type booking
+[WARNING] Failed to import "booking 540": Invalid post type booking
+[WARNING] Failed to import "booking 542": Invalid post type booking
+[WARNING] Failed to import "booking 545": Invalid post type booking
+[WARNING] Failed to import "booking 547": Invalid post type booking
+[WARNING] Failed to import "booking 549": Invalid post type booking
+[WARNING] Failed to import "booking 552": Invalid post type booking
+[WARNING] Failed to import "booking 555": Invalid post type booking
+[WARNING] Failed to import "booking 557": Invalid post type booking
+[WARNING] Failed to import "booking 559": Invalid post type booking
+[WARNING] Failed to import "booking 561": Invalid post type booking
+[WARNING] Failed to import "booking 563": Invalid post type booking
+[WARNING] Failed to import "booking 565": Invalid post type booking
+[WARNING] Failed to import "booking 567": Invalid post type booking
+[WARNING] Failed to import "booking 569": Invalid post type booking
+[WARNING] Failed to import "booking 570": Invalid post type booking
+[WARNING] Failed to import "booking 572": Invalid post type booking
+[WARNING] Failed to import "amit.bajracharya87@gmail.com": Invalid post type customer
+[WARNING] Failed to import "sudipsudip@gmail.com": Invalid post type customer
+[WARNING] Failed to import "uiuii@gmail.com": Invalid post type customer
+[WARNING] Failed to import "sdf@gmail.co": Invalid post type customer
+[WARNING] Failed to import "booking 574": Invalid post type booking
+[WARNING] Failed to import "booking 576": Invalid post type booking
+[WARNING] Failed to import "booking 578": Invalid post type booking
+[WARNING] Failed to import "booking 580": Invalid post type booking
+[WARNING] Failed to import "booking 582": Invalid post type booking
+[WARNING] Failed to import "booking 584": Invalid post type booking
+[WARNING] Failed to import "booking 586": Invalid post type booking
+[WARNING] Failed to import "booking 589": Invalid post type booking
+[WARNING] Failed to import "booking 591": Invalid post type booking
+[WARNING] Failed to import "booking 593": Invalid post type booking
+[WARNING] Failed to import "booking 595": Invalid post type booking
+[WARNING] Failed to import "booking 597": Invalid post type booking
+[WARNING] Failed to import "booking 599": Invalid post type booking
+[WARNING] Failed to import "booking 600": Invalid post type booking
+[WARNING] Failed to import "booking 602": Invalid post type booking
+[WARNING] Failed to import "booking 604": Invalid post type booking
+[WARNING] Failed to import "dsfg@fadfadsf.fadsf": Invalid post type customer
+[WARNING] Failed to import "ghnhn@gmail.com": Invalid post type customer
+[WARNING] Failed to import "test@gmail.com": Invalid post type customer
+[WARNING] Failed to import "dasd@acm.bom": Invalid post type customer
+[WARNING] Failed to import "horisa@yahoo.com": Invalid post type customer
+[WARNING] Failed to import "vc@gmail.com": Invalid post type customer
+[WARNING] Failed to import "11@mail.ru": Invalid post type customer
+[WARNING] Failed to import "andres.casanova1012@gmail.com": Invalid post type customer
+[WARNING] Failed to import "heryirawan3790@gmail.com": Invalid post type customer
+[WARNING] Failed to import "asdfas@dkdkd.com": Invalid post type customer
+[WARNING] Failed to import "ksaudh@gmail.com": Invalid post type customer
+[WARNING] Failed to import "pratimakamat26@gmail.com": Invalid post type customer
+[WARNING] Failed to import "dfg@mail.com": Invalid post type customer
+[WARNING] Failed to import "n@d.com": Invalid post type customer
+[WARNING] Failed to import "htca0777@gmail.com": Invalid post type customer
+[WARNING] Failed to import "e@er.mn": Invalid post type customer
+[WARNING] Failed to import "fd@gmail.com": Invalid post type customer
+[WARNING] Failed to import "f@gmail.com": Invalid post type customer
+[WARNING] Failed to import "fbouzehra@gmail.com": Invalid post type customer
+[WARNING] Failed to import "milipora@mail22.club": Invalid post type customer
+[WARNING] Failed to import "Enquiry #399": Invalid post type enquiry
+[WARNING] Failed to import "Enquiry #544": Invalid post type enquiry
+[WARNING] Failed to import "Enquiry #554": Invalid post type enquiry
+[WARNING] Failed to import "nickintrend@gmail.com": Invalid post type customer
+[WARNING] Failed to import "sd@g.com": Invalid post type customer
+[WARNING] Failed to import "mywishholidays@gmail.com": Invalid post type customer
+[WARNING] Failed to import "albanantonio@gmai.com": Invalid post type customer
+[WARNING] Failed to import "bushrairshad@gmail.com": Invalid post type customer
+[WARNING] Failed to import "set@hot.com": Invalid post type customer
+[WARNING] Failed to import "buyvcc77@gmail.com": Invalid post type customer
+[WARNING] Failed to import "ddd@gmail.com": Invalid post type customer
+[WARNING] Failed to import "abc@abc.com": Invalid post type customer
+[WARNING] Failed to import "demo@demo.com": Invalid post type customer
+[WARNING] Failed to import "m_yahya@aucegypt.edu": Invalid post type customer
+[WARNING] Failed to import "bogortourtravel35@gmail.com": Invalid post type customer
+[WARNING] Failed to import "dfd@gdg.com": Invalid post type customer
+[WARNING] Failed to import "rennytox@gmail.com": Invalid post type customer
+[WARNING] Failed to import "asad@gmail.com": Invalid post type customer
+[WARNING] Failed to import "dasdasdasd@gmail.com": Invalid post type customer
+[WARNING] Failed to import "mdondog123@gmail.com": Invalid post type customer
+[WARNING] Failed to import "Enquiry #588": Invalid post type enquiry
+
+
+---Importing widgets---
+wte-sidebar-id : Sidebar does not exist in theme (moving widget to Inactive)
+
+Image - No Title - Imported to Inactive
+
+Right Sidebar : 
+
+bttk_pro_recent_post - Recent Posts - Site does not support widget
+bttk_posts_category_slider_widget - Trekking - Site does not support widget
+bttk_custom_categories - Adventure - Site does not support widget
+bttk_popular_post - Popular Post - Site does not support widget
+
+Testimonials : 
+
+bttk_testimonial_widget - No Title - Site does not support widget
+bttk_testimonial_widget - No Title - Site does not support widget
+bttk_testimonial_widget - No Title - Site does not support widget
+
+Footer Widget : 
+
+Text - Contact Info - Imported
+Navigation Menu - Trip Types - Imported
+Navigation Menu - Destinations - Imported
+Navigation Menu - Activities - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,85 @@
+= Changelog =
+
+Tested up to: 4.9.5
+
+
+
+
+= Version 1.0.8 =
+
+Release Date: Aug 30, 2018
+
+i)	 One click demo import added.
+
+
+
+= Version 1.0.7 =
+
+Release Date: May 28, 2018
+
+i)   Information about PRO version added.
+
+
+
+
+= Version 1.0.6 =
+
+Release Date: May 23, 2018
+
+i)   One click demo install plugin recommended
+
+
+
+= Version 1.0.5 =
+
+Release Date: May 17, 2018
+
+i)   Esc issue  fixed in search form
+ii)  Esc issue fixed in Banner, Slider Section
+iii) Social Icon default removed.
+
+
+
+
+= Version 1.0.4 =
+
+Release Date: May 15, 2018
+
+i)   Recommended plugin added.
+ii)  Testimonial moved to homepage.
+
+
+
+
+= Version 1.0.3 =
+
+Release Date: May 14, 2018
+
+i)   Testimonials section added.
+ii)  CSS improvement for all section.
+
+
+
+
+= Version 1.0.2 =
+
+Release Date: May 6, 2018
+
+i)   Style updated
+
+
+
+= Version 1.0.1 =
+
+Release Date: April 30, 2018
+
+i) Re Upload
+
+
+
+
+= Version 1.0.0 =
+
+Release Date: April 26, 2018
+
+i) Intial version Release

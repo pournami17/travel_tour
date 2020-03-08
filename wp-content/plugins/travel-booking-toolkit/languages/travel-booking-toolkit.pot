@@ -1,0 +1,1318 @@
+# Copyright (C) 2020 wptravelengine
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel Booking Toolkit 1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-18 08:25:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WP Travel Engine\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../travel-booking-toolkit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class-travel-booking-toolkit-customizer.php:513
+msgid "3"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:514
+msgid "6"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:131
+msgid "225"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:121
+msgid "859"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:136
+msgid "1020"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:126
+msgid "1021"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:104
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:107
+#: includes/class-travel-booking-toolkit-functions.php:464
+msgid "Upload"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:108
+#: includes/class-travel-booking-toolkit-functions.php:466
+msgid "Change"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:109
+#: includes/class-travel-booking-toolkit-functions.php:483
+msgid "Please upload valid image file."
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:114
+msgid "Are you sure you want to delete this Contact?"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:123
+#: includes/widgets/widget-client-logo.php:152
+#: includes/widgets/widget-cta.php:253
+#: includes/widgets/widget-icon-text.php:142
+#: includes/widgets/widget-image-text.php:135
+msgid "Upload Image"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:130
+#: includes/widgets/widget-client-logo.php:153
+msgid "Featured Link"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:184
+msgid "WP Travel Engine - Group Discount"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:188
+msgid "WP Travel Engine - Trip Reviews"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:192
+msgid " WP Travel Engine - Trip Fixed Starting Dates"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:198
+msgid "Travel Booking Theme"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:198
+msgid "supports following plugins."
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:198
+msgid "In order to achieve full functioning of theme like in our demo site, please"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:198
+msgid "Install and Active"
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:198
+msgid "these recommended plugins."
+msgstr ""
+
+#: admin/class-travel-booking-toolkit-admin.php:198
+msgid "Dismiss"
+msgstr ""
+
+#: includes/class-control-repeater.php:516
+msgid "row"
+msgstr ""
+
+#: includes/class-control-repeater.php:517
+msgid "Add new"
+msgstr ""
+
+#: includes/class-control-repeater.php:518
+msgid "Select a Page"
+msgstr ""
+
+#: includes/class-control-repeater.php:519
+msgid "Limit: %s rows"
+msgstr ""
+
+#: includes/class-control-repeater.php:520
+msgid "Hex Value"
+msgstr ""
+
+#: includes/class-control-repeater.php:521
+msgid "No Image Selected"
+msgstr ""
+
+#: includes/class-control-repeater.php:522
+msgid "Remove"
+msgstr ""
+
+#: includes/class-control-repeater.php:523
+msgid "Add Image"
+msgstr ""
+
+#: includes/class-control-repeater.php:524
+msgid "Change Image"
+msgstr ""
+
+#: includes/class-control-repeater.php:525
+msgid "No File Selected"
+msgstr ""
+
+#: includes/class-control-repeater.php:526
+msgid "Add File"
+msgstr ""
+
+#: includes/class-control-repeater.php:527
+msgid "Change File"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:87
+#: includes/class-travel-booking-toolkit-customizer.php:114
+#: public/partials/travel-booking-toolkit-partials.php:18
+#: public/sections/popular.php:11
+msgid "Popular Packages"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:105
+msgid "Enable Popular Packages Section"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:123
+#: includes/class-travel-booking-toolkit-customizer.php:397
+#: includes/class-travel-booking-toolkit-customizer.php:670
+#: includes/class-travel-booking-toolkit-customizer.php:945
+#: includes/class-travel-booking-toolkit-customizer.php:1153
+msgid "Section Title"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:138
+msgid ""
+"This is the best place to show your most sold and popular travel packages. "
+"You can modify this section from Appearance > Customize > Front Page "
+"Settings > Popular Packages."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:147
+#: includes/class-travel-booking-toolkit-customizer.php:421
+#: includes/class-travel-booking-toolkit-customizer.php:694
+#: includes/class-travel-booking-toolkit-customizer.php:969
+#: includes/class-travel-booking-toolkit-customizer.php:1177
+msgid "Section Description"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:172
+msgid "We recommend to choose all the options here for a flawless design."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:190
+msgid "Enable Popular Package Demo Content"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:191
+msgid ""
+"If there are no Popular Package Posts selected, demo content will be "
+"displayed. Uncheck to hide demo content of this section."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:209
+#: includes/class-travel-booking-toolkit-customizer.php:738
+msgid ""
+"Go to Trips > Add New trips. Then you will be able to select a trip from "
+"the dropdown below."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:226
+msgid "Popular Package One"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:245
+msgid "Popular Package Two"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:264
+msgid "Popular Package Three"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:275
+#: includes/class-travel-booking-toolkit-customizer.php:823
+#: public/partials/travel-booking-toolkit-partials.php:44
+#: public/partials/travel-booking-toolkit-partials.php:143
+#: public/sections/deals.php:17 public/sections/popular.php:16
+msgid "View Details"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:284
+msgid "Read More Label"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:299
+#: includes/class-travel-booking-toolkit-customizer.php:570
+#: public/partials/travel-booking-toolkit-partials.php:57
+#: public/partials/travel-booking-toolkit-partials.php:107
+#: public/sections/featured-trip.php:16 public/sections/popular.php:17
+msgid "View All Packages"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:308
+#: includes/class-travel-booking-toolkit-customizer.php:856
+msgid "View All Label"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:331
+#: includes/class-travel-booking-toolkit-customizer.php:879
+msgid "View All URL"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:348
+#: includes/class-travel-booking-toolkit-customizer.php:621
+#: includes/class-travel-booking-toolkit-customizer.php:896
+#: includes/class-travel-booking-toolkit-customizer.php:1104
+#: includes/class-travel-booking-toolkit-customizer.php:1388
+msgid "Instructions"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:352
+#: includes/class-travel-booking-toolkit-customizer.php:625
+msgid ""
+"Please install the recommended plugin \"WP Travel Engine\" for setting of "
+"this section."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:361
+msgid "Featured Section"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:379
+msgid "Enable Feature Trip Section"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:388
+#: public/partials/travel-booking-toolkit-partials.php:71
+#: public/sections/featured-trip.php:10
+msgid "Featured Trip"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:412
+#: public/sections/featured-trip.php:11
+msgid ""
+"This is the best place to show your other travel packages. You can modify "
+"this section from Appearance > Customize > Front Page Settings > Featured "
+"Section."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:447
+msgid "Enable Featured Demo Content"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:448
+msgid ""
+"If there is no Featured Trip Category selected, demo content will be "
+"displayed. Uncheck to hide demo content of this section."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:465
+msgid "Choose Trips From"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:469
+msgid "Featured Trip Category"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:470
+msgid "Latest Trips"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:487
+msgid "Choose Featured Trip Category"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:488
+msgid ""
+"Go to Trips > Activities and add. Then you will be able to select a trip "
+"activities from the dropdown."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:509
+msgid "No. of Trips"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:533
+msgid "Latest Trip #%1$s"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:546
+#: public/partials/travel-booking-toolkit-partials.php:95
+#: public/sections/featured-trip.php:15
+msgid "View Detail"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:555
+#: includes/class-travel-booking-toolkit-customizer.php:832
+msgid "Read More label"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:579
+msgid "View All label"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:602
+msgid "View All Url"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:603
+msgid "Please insert custom url link to show all trips."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:634
+msgid "Deals Section"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:652
+msgid "Enable Deals & Discount Section"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:661
+#: public/partials/travel-booking-toolkit-partials.php:119
+#: public/sections/deals.php:11
+msgid "Deals and Discounts"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:685
+#: public/partials/travel-booking-toolkit-partials.php:131
+#: public/sections/deals.php:12
+msgid ""
+"how the special deals and discounts to your customers here. You can "
+"customize this section from Appearance > Customize > Home Page Settings > "
+"Deals Section."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:720
+msgid "Enable Deal Demo Content"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:721
+msgid ""
+"If there are no Deal Post selected, demo content will be displayed. Uncheck "
+"to hide demo content of this section."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:755
+msgid "Deal Post One"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:774
+msgid "Deal Post Two"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:793
+msgid "Deal Post Three"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:812
+msgid "Deal Post Four"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:847
+#: public/partials/travel-booking-toolkit-partials.php:155
+#: public/sections/deals.php:18
+msgid "View All Deals"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:900
+#: includes/class-travel-booking-toolkit-customizer.php:1108
+#: includes/class-travel-booking-toolkit-customizer.php:1392
+msgid ""
+"Please install the recomended plugin \"WP Travel Engine\" for setting of "
+"this section."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:909
+msgid "Destination Section"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:927
+msgid "Enable Destination Section"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:936
+#: public/partials/travel-booking-toolkit-partials.php:167
+#: public/sections/destination.php:11
+msgid "Popular Destinations"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:960
+#: public/partials/travel-booking-toolkit-partials.php:179
+msgid ""
+"How the special deals and discounts to your customers here. You can "
+"customize this section from Appearance > Customize > Home Page Settings > "
+"Destination Section."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:995
+msgid "Enable Destination Demo Content"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:996
+msgid ""
+"If there are no Destination terms selected, demo content will be displayed. "
+"Uncheck to hide demo content of this section."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1013
+msgid ""
+"Go to Trips > Add New trips > Add destination. Then you will be able to "
+"select a destination from the dropdown below."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1030
+msgid "Destination One"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1049
+msgid "Destination Two"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1068
+msgid "Destination Three"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1087
+msgid "Destination Four"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1117
+msgid "Activities Section"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1135
+msgid "Enable Activities Section"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1144
+#: public/partials/travel-booking-toolkit-partials.php:191
+#: public/sections/activities.php:11
+msgid "Browse Activities"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1168
+msgid ""
+"This is the best place to tell your visitors what travel services your "
+"company provide. You can modify this section from Appearance > Customize > "
+"Home Page Settings > Activities Section on your WordPress."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1203
+msgid "Enable Activities Demo Content"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1204
+msgid ""
+"If there are no Activities terms selected, demo content will be displayed. "
+"Uncheck to hide demo content of this section."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1221
+msgid ""
+"Go to Trips > Add New trips > Add activities. Then you will be able to "
+"select a activities from the dropdown below."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1238
+msgid "Activities One"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1257
+msgid "Activities Two"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1276
+msgid "Activities Three"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1295
+msgid "Activities Four"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1314
+msgid "Activities Five"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1333
+msgid "Activities Six"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1352
+msgid "Activities Seven"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-customizer.php:1371
+msgid "Activities Eight"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:18
+#: includes/class-travel-booking-toolkit-dummy-array.php:48
+msgid "Whitewater Rafting"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:19
+#: includes/class-travel-booking-toolkit-dummy-array.php:25
+#: includes/class-travel-booking-toolkit-dummy-array.php:31
+#: includes/class-travel-booking-toolkit-dummy-array.php:37
+#: includes/class-travel-booking-toolkit-dummy-array.php:43
+#: includes/class-travel-booking-toolkit-dummy-array.php:49
+#: includes/class-travel-booking-toolkit-dummy-array.php:55
+#: includes/class-travel-booking-toolkit-dummy-array.php:61
+msgid "Tell your potential customers about the services that you provide here."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:24
+#: includes/class-travel-booking-toolkit-dummy-array.php:54
+#: includes/class-travel-booking-toolkit-dummy-array.php:509
+msgid "Hiking"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:30
+#: includes/class-travel-booking-toolkit-dummy-array.php:60
+msgid "Skiing"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:36
+#: includes/class-travel-booking-toolkit-dummy-array.php:497
+msgid "Cycling"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:42
+#: includes/class-travel-booking-toolkit-dummy-array.php:493
+msgid "Paragliding"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:75
+#: includes/class-travel-booking-toolkit-dummy-array.php:99
+msgid "TripAdvisor Multiple Award winning company"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:76
+#: includes/class-travel-booking-toolkit-dummy-array.php:100
+msgid ""
+"We've received Certificate of Excellence award from TripAdvisor, the "
+"world's largest travel website."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:81
+#: includes/class-travel-booking-toolkit-dummy-array.php:105
+msgid "100% Customizable"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:82
+#: includes/class-travel-booking-toolkit-dummy-array.php:106
+msgid ""
+"Tell us about your trip requirement. We'll work together to customize your "
+"trip to meet your exact requirement so that you have a memorable trip."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:87
+msgid "Local Experts. Middle-man Free Pricing"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:88
+msgid ""
+"We're a local travel agency. When you book with us, you get best possible "
+"price, which is middle-man free."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:93
+msgid "No Hidden Charges"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:94
+msgid ""
+"We don't add hidden extras cost. All trips include travel permit, lodging "
+"and fooding. There are no surprises with hidden costs."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:120
+msgid "Number of Customers"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:125
+msgid "Number of Trips"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:130
+msgid "Trips Types"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:135
+msgid "Travel with Bus"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:149
+#: includes/class-travel-booking-toolkit-dummy-array.php:223
+#: includes/class-travel-booking-toolkit-dummy-array.php:361
+msgid "45% Off"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:150
+#: includes/class-travel-booking-toolkit-dummy-array.php:171
+#: includes/class-travel-booking-toolkit-dummy-array.php:192
+#: includes/class-travel-booking-toolkit-dummy-array.php:224
+#: includes/class-travel-booking-toolkit-dummy-array.php:245
+#: includes/class-travel-booking-toolkit-dummy-array.php:266
+#: includes/class-travel-booking-toolkit-dummy-array.php:287
+#: includes/class-travel-booking-toolkit-dummy-array.php:329
+#: includes/class-travel-booking-toolkit-dummy-array.php:362
+#: includes/class-travel-booking-toolkit-dummy-array.php:383
+#: includes/class-travel-booking-toolkit-dummy-array.php:404
+#: includes/class-travel-booking-toolkit-dummy-array.php:425
+msgid "$ 1200"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:151
+#: includes/class-travel-booking-toolkit-dummy-array.php:172
+#: includes/class-travel-booking-toolkit-dummy-array.php:193
+#: includes/class-travel-booking-toolkit-dummy-array.php:225
+#: includes/class-travel-booking-toolkit-dummy-array.php:246
+#: includes/class-travel-booking-toolkit-dummy-array.php:267
+#: includes/class-travel-booking-toolkit-dummy-array.php:288
+#: includes/class-travel-booking-toolkit-dummy-array.php:330
+#: includes/class-travel-booking-toolkit-dummy-array.php:363
+#: includes/class-travel-booking-toolkit-dummy-array.php:384
+#: includes/class-travel-booking-toolkit-dummy-array.php:405
+#: includes/class-travel-booking-toolkit-dummy-array.php:426
+msgid "$ 900"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:154
+#: includes/class-travel-booking-toolkit-dummy-array.php:228
+#: includes/class-travel-booking-toolkit-dummy-array.php:333
+#: includes/class-travel-booking-toolkit-dummy-array.php:366
+msgid "Tiananmen Square, Forbidden City and Temple of Heaven"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:155
+#: includes/class-travel-booking-toolkit-dummy-array.php:229
+#: includes/class-travel-booking-toolkit-dummy-array.php:334
+#: includes/class-travel-booking-toolkit-dummy-array.php:367
+#: includes/class-travel-booking-toolkit-dummy-array.php:465
+msgid "Thailand"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:156
+#: includes/class-travel-booking-toolkit-dummy-array.php:177
+#: includes/class-travel-booking-toolkit-dummy-array.php:198
+#: includes/class-travel-booking-toolkit-dummy-array.php:230
+#: includes/class-travel-booking-toolkit-dummy-array.php:251
+#: includes/class-travel-booking-toolkit-dummy-array.php:272
+#: includes/class-travel-booking-toolkit-dummy-array.php:293
+#: includes/class-travel-booking-toolkit-dummy-array.php:314
+#: includes/class-travel-booking-toolkit-dummy-array.php:335
+#: includes/class-travel-booking-toolkit-dummy-array.php:368
+#: includes/class-travel-booking-toolkit-dummy-array.php:389
+#: includes/class-travel-booking-toolkit-dummy-array.php:410
+#: includes/class-travel-booking-toolkit-dummy-array.php:431
+msgid "15 Days"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:159
+#: includes/class-travel-booking-toolkit-dummy-array.php:180
+#: includes/class-travel-booking-toolkit-dummy-array.php:201
+#: includes/class-travel-booking-toolkit-dummy-array.php:233
+#: includes/class-travel-booking-toolkit-dummy-array.php:254
+#: includes/class-travel-booking-toolkit-dummy-array.php:275
+#: includes/class-travel-booking-toolkit-dummy-array.php:296
+#: includes/class-travel-booking-toolkit-dummy-array.php:317
+#: includes/class-travel-booking-toolkit-dummy-array.php:338
+#: includes/class-travel-booking-toolkit-dummy-array.php:371
+#: includes/class-travel-booking-toolkit-dummy-array.php:392
+#: includes/class-travel-booking-toolkit-dummy-array.php:413
+#: includes/class-travel-booking-toolkit-dummy-array.php:434
+msgid "Jan 10"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:160
+#: includes/class-travel-booking-toolkit-dummy-array.php:181
+#: includes/class-travel-booking-toolkit-dummy-array.php:202
+#: includes/class-travel-booking-toolkit-dummy-array.php:234
+#: includes/class-travel-booking-toolkit-dummy-array.php:255
+#: includes/class-travel-booking-toolkit-dummy-array.php:276
+#: includes/class-travel-booking-toolkit-dummy-array.php:297
+#: includes/class-travel-booking-toolkit-dummy-array.php:318
+#: includes/class-travel-booking-toolkit-dummy-array.php:339
+#: includes/class-travel-booking-toolkit-dummy-array.php:372
+#: includes/class-travel-booking-toolkit-dummy-array.php:393
+#: includes/class-travel-booking-toolkit-dummy-array.php:414
+#: includes/class-travel-booking-toolkit-dummy-array.php:435
+msgid "4 spaces left"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:163
+#: includes/class-travel-booking-toolkit-dummy-array.php:184
+#: includes/class-travel-booking-toolkit-dummy-array.php:205
+#: includes/class-travel-booking-toolkit-dummy-array.php:237
+#: includes/class-travel-booking-toolkit-dummy-array.php:258
+#: includes/class-travel-booking-toolkit-dummy-array.php:279
+#: includes/class-travel-booking-toolkit-dummy-array.php:300
+#: includes/class-travel-booking-toolkit-dummy-array.php:321
+#: includes/class-travel-booking-toolkit-dummy-array.php:342
+#: includes/class-travel-booking-toolkit-dummy-array.php:375
+#: includes/class-travel-booking-toolkit-dummy-array.php:396
+#: includes/class-travel-booking-toolkit-dummy-array.php:417
+#: includes/class-travel-booking-toolkit-dummy-array.php:438
+msgid "Feb 21"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:164
+#: includes/class-travel-booking-toolkit-dummy-array.php:185
+#: includes/class-travel-booking-toolkit-dummy-array.php:206
+#: includes/class-travel-booking-toolkit-dummy-array.php:238
+#: includes/class-travel-booking-toolkit-dummy-array.php:259
+#: includes/class-travel-booking-toolkit-dummy-array.php:280
+#: includes/class-travel-booking-toolkit-dummy-array.php:301
+#: includes/class-travel-booking-toolkit-dummy-array.php:322
+#: includes/class-travel-booking-toolkit-dummy-array.php:343
+#: includes/class-travel-booking-toolkit-dummy-array.php:376
+#: includes/class-travel-booking-toolkit-dummy-array.php:397
+#: includes/class-travel-booking-toolkit-dummy-array.php:418
+#: includes/class-travel-booking-toolkit-dummy-array.php:439
+msgid "18 spaces left"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:170
+#: includes/class-travel-booking-toolkit-dummy-array.php:244
+#: includes/class-travel-booking-toolkit-dummy-array.php:382
+msgid "15% Off"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:175
+#: includes/class-travel-booking-toolkit-dummy-array.php:249
+#: includes/class-travel-booking-toolkit-dummy-array.php:387
+msgid "TMt Fuji Day Trip including Lake Ashi Sightseeing Cruise"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:176
+#: includes/class-travel-booking-toolkit-dummy-array.php:250
+#: includes/class-travel-booking-toolkit-dummy-array.php:292
+#: includes/class-travel-booking-toolkit-dummy-array.php:388
+#: includes/class-travel-booking-toolkit-dummy-array.php:430
+msgid "Japan"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:191
+#: includes/class-travel-booking-toolkit-dummy-array.php:265
+#: includes/class-travel-booking-toolkit-dummy-array.php:403
+msgid "5% Off"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:196
+#: includes/class-travel-booking-toolkit-dummy-array.php:270
+#: includes/class-travel-booking-toolkit-dummy-array.php:408
+msgid "Floating markets and Sampran Riverside Day Tour from"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:197
+#: includes/class-travel-booking-toolkit-dummy-array.php:271
+#: includes/class-travel-booking-toolkit-dummy-array.php:313
+#: includes/class-travel-booking-toolkit-dummy-array.php:409
+msgid "Rome"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:286
+#: includes/class-travel-booking-toolkit-dummy-array.php:424
+msgid "25% Off"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:291
+#: includes/class-travel-booking-toolkit-dummy-array.php:429
+msgid "Mt Fuji Day Trip including Lake Ashi Sightseeing Cruise"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:307
+msgid "12% Off"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:308
+msgid "$ 2800"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:309
+msgid "$ 2200"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:312
+msgid "Floating Markets and Sampran Riverside Day Tour from"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:328
+msgid "50% Off"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:455
+msgid "Nepal"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:456
+#: includes/class-travel-booking-toolkit-dummy-array.php:471
+msgid "42 Trips"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:460
+msgid "Germany"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:461
+msgid "29 Trips"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:466
+msgid "22 Trips"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:470
+msgid "Vietnam"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:485
+msgid "Peak Climbing"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:489
+msgid "Sightseeing"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:501
+msgid "Scuba Diving"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:505
+msgid "Jungle Safari"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-dummy-array.php:513
+msgid "Hot Air Ballon"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-functions.php:20
+msgid "Search Icon"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-functions.php:461
+msgid "No file chosen"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-functions.php:469
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-functions.php:475
+msgid "Remove Image"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-functions.php:534
+msgid "Choose Category"
+msgstr ""
+
+#: includes/class-travel-booking-toolkit-functions.php:570
+msgid " -- Choose -- "
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:24
+msgid "WP Travel Engine: Client Logo"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:25
+msgid "A Client Logo Widget."
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:123
+#: includes/widgets/widget-contact.php:240 includes/widgets/widget-cta.php:188
+#: includes/widgets/widget-icon-text.php:118
+#: includes/widgets/widget-image-text.php:111
+#: includes/widgets/widget-recent-posts.php:145
+#: includes/widgets/widget-taxonomy-list.php:92
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:129
+msgid "Display logo in black and white"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:135
+#: includes/widgets/widget-icon-text.php:129
+#: includes/widgets/widget-image-text.php:122
+#: includes/widgets/widget-taxonomy-list.php:118
+msgid "Open in Same Tab"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:165
+msgid "Add Another Logo"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:44
+msgid "WP Travel Engine: Contact Widget"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:45
+msgid "A Contact Widget"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:60
+#: includes/widgets/widget-contact.php:299
+msgid "Social Icon"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:62
+msgid "Search Social Icons"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:63
+#: includes/widgets/widget-contact.php:302
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:245
+#: includes/widgets/widget-team-member.php:179
+msgid "Description"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:250
+msgid "Telephone"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:255
+msgid "Email"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:260
+msgid "Address"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:267
+msgid "Open Social Links in New Tab"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:316
+msgid "Add Social Icon"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:317
+msgid ""
+"Click on the above button to add social media icons. You can also change "
+"the order of the social icons."
+msgstr ""
+
+#: includes/widgets/widget-cta.php:26
+msgid "WP Travel Engine: Call To Action Widget"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:27
+msgid "A Call To Action Text Widget."
+msgstr ""
+
+#: includes/widgets/widget-cta.php:193
+#: includes/widgets/widget-icon-text.php:123
+#: includes/widgets/widget-image-text.php:116
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:198
+msgid "Button Alignment:"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:209
+msgid "Number of Call-to-Action Buttons:"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:220
+msgid "Button-1 Text"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:226
+msgid "Button-1 Link"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:233
+msgid "Button-2 Text"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:237
+msgid "Button-2 Link"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:244
+msgid "Open in new Tab"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:248
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:25
+msgid "WP Travel Engine: Icon Text Widget"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:26
+msgid "An Icon Text Widget."
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:133
+#: includes/widgets/widget-image-text.php:126
+msgid "More Link"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:138
+#: includes/widgets/widget-image-text.php:131
+msgid "More Text"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:144
+msgid "or"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:147
+msgid "Icons"
+msgstr ""
+
+#: includes/widgets/widget-image-text.php:25
+msgid "WP Travel Engine: Image Text Widget"
+msgstr ""
+
+#: includes/widgets/widget-image-text.php:26
+msgid "An Image Text Widget."
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:25
+msgid "WP Travel Engine: Recent Posts"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:26
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:39
+#: includes/widgets/widget-recent-posts.php:135
+#: includes/widgets/widget-recent-posts.php:198
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:89
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:97
+msgid "%1$s"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:119
+msgid "Style One"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:120
+msgid "Style Two"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:121
+msgid "Style Three"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:150
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:156
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:161
+msgid "Show Post Date"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:166
+msgid "Open in New Tab"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:170
+msgid "Layout:"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:25
+msgid "WP Travel Engine: Category List"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:26
+msgid "A Taxonomy List Widget"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:97
+msgid "Number of List Items"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:104
+msgid "Trip Category"
+msgstr ""
+
+#: includes/widgets/widget-taxonomy-list.php:106
+msgid "Select Category"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:25
+msgid "WP Travel Engine: Team Member"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:26
+msgid "A Team Member Widget."
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:169
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:174
+msgid "Designation"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:185
+msgid "Upload Photo"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:188
+msgid "LinkedIn Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:194
+msgid "Twitter Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:198
+msgid "Facebook Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:202
+msgid "Instagram Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:206
+msgid "YouTube Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:210
+msgid "Dribbble Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:214
+msgid "Behance Profile"
+msgstr ""
+
+#: public/partials/travel-booking-toolkit-partials.php:31
+#: public/sections/popular.php:12
+msgid ""
+"This is the best place to show your most sold and popular travel packages. "
+"You can modify this section from Appearance > Customize > Home Page "
+"Settings > Best Sellers Packages."
+msgstr ""
+
+#: public/partials/travel-booking-toolkit-partials.php:83
+msgid ""
+"This is the best place to show your other travel packages. You can modify "
+"this section from Appearance > Customize > Home Page Settings > Featured "
+"Section."
+msgstr ""
+
+#: public/partials/travel-booking-toolkit-partials.php:203
+msgid ""
+"How the special deals and discounts to your customers here. You can "
+"customize this section from Appearance > Customize > Home Page Settings > "
+"Activities Section."
+msgstr ""
+
+#: public/sections/activities.php:12
+msgid ""
+"Show activities to your customers here. You can customize this section from "
+"Appearance > Customize > Home Page Settings > Activities Section."
+msgstr ""
+
+#: public/sections/deals.php:79 public/sections/featured-trip.php:90
+#: public/sections/popular.php:79
+msgid "%1$s&percnt; Off"
+msgstr ""
+
+#: public/sections/deals.php:90 public/sections/deals.php:225
+#: public/sections/featured-trip.php:101 public/sections/featured-trip.php:236
+#: public/sections/popular.php:90 public/sections/popular.php:223
+msgid "You have group discount in this trip."
+msgstr ""
+
+#: public/sections/deals.php:90 public/sections/deals.php:225
+#: public/sections/featured-trip.php:101 public/sections/featured-trip.php:236
+#: public/sections/popular.php:90 public/sections/popular.php:223
+msgid "Group Discount"
+msgstr ""
+
+#: public/sections/deals.php:159 public/sections/deals.php:236
+#: public/sections/featured-trip.php:169 public/sections/featured-trip.php:247
+#: public/sections/popular.php:160 public/sections/popular.php:234
+msgid "Next Departure"
+msgstr ""
+
+#: public/sections/deals.php:182 public/sections/featured-trip.php:192
+#: public/sections/popular.php:183
+msgid "spaces left"
+msgstr ""
+
+#: public/sections/deals.php:182 public/sections/featured-trip.php:192
+#: public/sections/popular.php:183
+msgid "0 space left"
+msgstr ""
+
+#: public/sections/deals.php:228 public/sections/featured-trip.php:239
+#: public/sections/popular.php:226
+msgid "5 rating"
+msgstr ""
+
+#: public/sections/destination.php:12
+msgid ""
+"How the special deals and discounts to your customers here. You can "
+"customize this section from Appearance > Customize > Home Page Settings > "
+"Deals Section"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Travel Booking Toolkit"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/travel-booking-toolkit/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Travel Booking Toolkit allows you to add extra functionality to the "
+"Customizer, Widgets Section in your WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "wptravelengine"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wptravelengine.com"
+msgstr ""
+
+#: public/sections/deals.php:127 public/sections/featured-trip.php:139
+#: public/sections/popular.php:128
+msgctxt "reviews count"
+msgid "review"
+msgid_plural "reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/sections/deals.php:146 public/sections/featured-trip.php:157
+#: public/sections/popular.php:148
+msgctxt "trip duration"
+msgid "%1$s Day"
+msgid_plural "%1$s Days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/sections/destination.php:40
+msgctxt "Trip Count"
+msgid "%1$s Trip"
+msgid_plural "%1$s Trips"
+msgstr[0] ""
+msgstr[1] ""
